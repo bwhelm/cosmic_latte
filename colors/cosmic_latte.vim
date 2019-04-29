@@ -31,11 +31,11 @@ if &background ==# 'dark'
   hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi SignColumn ctermfg=145 ctermbg=NONE guifg=#abb0c0 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+  hi Title ctermfg=9 ctermbg=NONE guifg=#c17b8d guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
   hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
   hi Comment ctermfg=246 ctermbg=NONE guifg=#898f9e guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi CursorLineNr ctermfg=246 ctermbg=NONE guifg=#898f9e guibg=NONE guisp=NONE cterm=NONE gui=NONE
-  hi LineNr ctermfg=246 ctermbg=NONE guifg=#898f9e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi LineNr ctermfg=145 ctermbg=237 guifg=#abb0c0 guibg=#2b3740 guisp=NONE cterm=NONE gui=NONE
   hi ColorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3740 guisp=NONE cterm=NONE gui=NONE
   hi CursorColumn ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3740 guisp=NONE cterm=NONE gui=NONE
   hi CursorLine ctermfg=NONE ctermbg=237 guifg=NONE guibg=#2b3740 guisp=NONE cterm=NONE gui=NONE
@@ -163,11 +163,11 @@ hi Normal ctermfg=240 ctermbg=231 guifg=#485a62 guibg=#fff8e7 guisp=NONE cterm=N
 hi Question ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi SignColumn ctermfg=240 ctermbg=NONE guifg=#485a62 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Terminal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Title ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Title ctermfg=9 ctermbg=NONE guifg=#c17b8d guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Underlined ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,underline gui=NONE,underline
 hi Comment ctermfg=243 ctermbg=NONE guifg=#63757e guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi CursorLineNr ctermfg=243 ctermbg=NONE guifg=#63757e guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi LineNr ctermfg=243 ctermbg=NONE guifg=#63757e guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi LineNr ctermfg=243 ctermbg=254 guifg=#63757e guibg=#efe4d2 guisp=NONE cterm=NONE gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#efe4d2 guisp=NONE cterm=NONE gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=254 guifg=NONE guibg=#efe4d2 guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=254 guifg=NONE guibg=#efe4d2 guisp=NONE cterm=NONE gui=NONE
